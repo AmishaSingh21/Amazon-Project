@@ -11,7 +11,7 @@ This project has been prepared through Power Bi visualisation tool using Amazon 
 - utilisng Power bi tool and formule, conditional and custom columns were created to extract the Delivery date, no. of Returns made
 - The manipulated data were then visualised using charts and graphs and cards and slicers.
 # What can be Explored from Data:
-NOTE : The analysis can be accessed based on the Year and Time slab and Sub Category ans Segment.
+NOTE : The analysis can be accessed based on the Year and Time slab and Sub Category and Segment.
 
 - The sales Projection, Product name, sum of Quantity, No.of distinct ship dates.
 - The 10 profitable product name 
