@@ -28,4 +28,4 @@ This is the visual of the query:
 2. We can find out the reason behind why more or less sales in various region which could depend upon the income slab, economic condition, season, fest, trends and so on...
 3. Analysing the profitable customers, we can create a close contact with those through newsletters, E-mails, product recommendations and gift vouchers.
 4. Analyse the percent sum of sales by market and the top sales making contries that belongs to the same market.
-5. Analyse sales top 10 profitable and bottom 10 no-performing products by segment depending upon the years.
+5. Analyse the sales of top 10 profitable and bottom 10 non-performing products by segment depending upon the years.
