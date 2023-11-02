@@ -10,7 +10,7 @@ This project has been prepared through Power Bi visualisation tool using Amazon 
 - Data then were transformed and cleaned and processed including removsl of null and duplicate datas.
 - utilisng Power bi tool and formule, conditional and custom columns were created to extract the Delivery date, no. of Returns made
 - The manipulated data were then visualised using charts and graphs and cards and slicers.
-# What can be Explored from Data:
+# What to Explore from Data:
 NOTE : The analysis can be accessed based on the Year and Time slab and Sub Category and Segment.
 
 - The sales Projection, Product name, sum of Quantity, No.of distinct ship dates.
@@ -18,7 +18,14 @@ NOTE : The analysis can be accessed based on the Year and Time slab and Sub Cate
 - 10 not well performed products
 - Total sales by Region, Market and Segment
 - Top 10 customer names by Profit.
-  
+- 
+This is the visual of the query:
 
+![Git Hub](https://github.com/AmishaSingh21/Amazon-Project/assets/147337191/fc922884-e1f2-4ca0-8406-7dbf2a7c0fe8)
 
-![Git hub](https://github.com/AmishaSingh21/Amazon-Project/assets/147337191/74a8bc6a-2e4d-4849-8531-27a1a1418384)
+# Conclusion:
+1. Monitoring the continuous feedback from the customer for th eprofitable product can assist us n analysing the future sales of the same product and their variant.
+2. We can find out the reason behind why more or less sales in various region which could depend upon the income slab, economic condition, season, fest, trends and so on...
+3. Analysing the profitable customers, we can create a close contact with those through newsletters, E-mails, product recommendations and gift vouchers.
+4. Analyse the percent sum of sales by market and the top sales making contries that belongs to the same market.
+5. Analyse sales top 10 profitable and bottom 10 no-performing products by segment depending upon the years.
