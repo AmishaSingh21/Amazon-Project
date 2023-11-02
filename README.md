@@ -23,7 +23,7 @@ This is the visual of the query:
 
 ![Git Hub](https://github.com/AmishaSingh21/Amazon-Project/assets/147337191/fc922884-e1f2-4ca0-8406-7dbf2a7c0fe8)
 
-# Conclusion:
+# Recommendations and Conclusion:
 Note: These are the informations which can be find out but are not limited to few-
 1. Monitoring the continuous feedback from the customer for th eprofitable product can assist us n analysing the future sales of the same product and their variant.
 2. We can find out the reason behind why more or less sales in various region which could depend upon the income slab, economic condition, season, fest, trends and so on...
