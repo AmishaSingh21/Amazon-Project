@@ -1,5 +1,5 @@
 # Amazon-Project
-![Git Hub](https://github.com/AmishaSingh21/Amazon-Project/assets/147337191/fc922884-e1f2-4ca0-8406-7dbf2a7c0fe8)
+
 This project has been prepared through Power Bi visualisation tool using Amazon sales data of consecutive 4 year from 2012-2016. The aim of the project is to generate a report facilitating recommendations based on visual analysis relating to business interest.
 # The Ask of the Project:
 NOTE : _The analysis can be accessed based on the Year and Time slab and Sub Category and Segment._
@@ -22,7 +22,7 @@ NOTE : _The analysis can be accessed based on the Year and Time slab and Sub Cat
   
 This is the visual of the query:
 
-![Git Hub](https://github.com/AmishaSingh21/Amazon-Project/assets/147337191/fc922884-e1f2-4ca0-8406-7dbf2a7c0fe8)
+
 
 # Conclusion & Recommendations :
 Note: These are the informations which can be find out but are not limited to few-
