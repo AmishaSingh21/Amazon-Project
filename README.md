@@ -24,10 +24,11 @@ This is the visual of the query:
 
 ![Git Hub](https://github.com/AmishaSingh21/Amazon-Project/assets/147337191/fc922884-e1f2-4ca0-8406-7dbf2a7c0fe8)
 
-# Recommendations and Conclusion:
+# Conclusion & Recommendations :
 Note: These are the informations which can be find out but are not limited to few-
-1. Monitoring the continuous feedback from the customer for the profitable product can assist us in analysing the future sales of the same product and their variant.
+1. We can Monitor the continuous feedback from the customer for the profitable product can assist us in analysing the future sales of the same product and their variant.
 2. We can find out the reason behind why more or less sales in various region which could depend upon the income slab, economic condition, season, fest, trends and so on...
 3. Analysing the profitable customers, we can create a close contact with those through newsletters, E-mails, product recommendations and gift vouchers.
-4. Analyse the percent sum of sales by market and the top sales making contries that belongs to the same market.
-5. Analyse the sales of top 10 profitable and bottom 10 non-performing products by segment depending upon the years.
+4. We can Analyse the percent sum of sales by market and the top sales making countries that belongs to the same market.
+5. We can Analyse the sales of top 10 profitable and bottom 10 non-performing products by segment depending upon the years.
+6. To diversify and expand the business we need to look at the reason behind non - performing products and if our product is suitable with the demography then we need to generate awareness regarding our productt with cost-effective approach. 
